@@ -5,11 +5,6 @@ Love :coffee:, :airplane: and :sailboat:<br />
 <br />
 You can find me on [Twitter](https://www.linkedin.com/in/volodymyr-sen/), or on [LinkedIn](https://www.linkedin.com/in/volodymyr-sen/)
 
-[1]: https://www.linkedin.com/in/volodymyr-sen/
-[2]: https://www.linkedin.com/in/volodymyr-sen/
-[1.2]: https://raw.githubusercontent.com/senvolodymyr/senvolodymyr/master/icons/social/twitter.png
-[2.2]: https://raw.githubusercontent.com/senvolodymyr/senvolodymyr/master/icons/social/linkedin.png
-
 ### Technologies and tools I work with
 <p float="left">
 <img src="https://raw.githubusercontent.com/senvolodymyr/senvolodymyr/master/icons/javascript.svg" width="24" alt="JavaScript" />
